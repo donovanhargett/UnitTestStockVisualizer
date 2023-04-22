@@ -1,9 +1,9 @@
 # UnitTestStockVisualizer
 
 
-Unit tests for Stock Data Visualizer
-IT 4320 
+Unit tests for Stock Data Visualizer Project
+IT 4320 | Donovan Hargett
 SS23 
-Donovan Hargett
+
 
 
